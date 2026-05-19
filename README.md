@@ -11,7 +11,9 @@
 |<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 04 27 PM" src="Screenshots/Sales.png" />| <img width="1440" height="893" alt="Screenshot 2026-02-26 at 5 04 52 PM" src="Screenshots/Product.png" />|
 
 | Employees & Customers Dashboard |
-|<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 08 PM" src="Screenshots/Emp&Cust.png" /> | <img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 14 PM" src="" />|
+|---|---|
+|<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 08 PM" src="Screenshots/Emp&Cust.png" /> | <img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 14 PM" src="  " />|
+
 
 ---
 
