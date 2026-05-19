@@ -6,14 +6,13 @@
 
 ## 🖼️ Dashboard Preview
 
-### Sales
-![Sales Dashboard](/Users/elsawaf/Desktop/Sales.png)
+| Sales Dashboard | Products Dashboard |
+|---|---|
+|<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 04 27 PM" src="https://github.com/user-attachments/assets/078e35c1-23af-43d0-b6c2-1cf8f454b616" />| <img width="1440" height="893" alt="Screenshot 2026-02-26 at 5 04 52 PM" src="https://github.com/user-attachments/assets/a2277d38-383b-4a27-9b71-55010b1a2c99" />|
 
-### Products
-![Products Dashboard](/Users/elsawaf/Desktop/Product.png)
-
-### Employees & Customers
-![Employees & Customers Dashboard](/Users/elsawaf/Desktop/Emp&Cust.png)
+| Customers Dashboard | Employees Dashboard |
+|---|---|
+|<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 08 PM" src="https://github.com/user-attachments/assets/03490b5f-50df-4db7-8c53-fc01d66c1fca" /> | <img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 14 PM" src="https://github.com/user-attachments/assets/25f94a6c-cde3-43a5-a0bb-39e287349c37" />|
 
 ---
 
