@@ -8,11 +8,11 @@
 
 | Sales Dashboard | Products Dashboard |
 |---|---|
-|<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 04 27 PM" src="Screenshots/Sales.png" />| <img width="1440" height="893" alt="Screenshot 2026-02-26 at 5 04 52 PM" src="https://github.com/user-attachments/assets/a2277d38-383b-4a27-9b71-55010b1a2c99" />|
+|<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 04 27 PM" src="Screenshots/Sales.png" />| <img width="1440" height="893" alt="Screenshot 2026-02-26 at 5 04 52 PM" src="Screenshots/Product.png" />|
 
-| Customers Dashboard | Employees Dashboard |
+| Employees & Customers Dashboard |
 |---|---|
-|<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 08 PM" src="https://github.com/user-attachments/assets/03490b5f-50df-4db7-8c53-fc01d66c1fca" /> | <img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 14 PM" src="https://github.com/user-attachments/assets/25f94a6c-cde3-43a5-a0bb-39e287349c37" />|
+|<img width="1440" height="900" alt="Screenshot 2026-02-26 at 5 05 08 PM" src="Screenshots/Emp&Cust.png" /> 
 
 ---
 
