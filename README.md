@@ -7,13 +7,13 @@
 ## 🖼️ Dashboard Preview
 
 ### Sales
-![Sales Dashboard](screenshots/sales.png)
+![Sales Dashboard](/Users/elsawaf/Desktop/Sales.png)
 
 ### Products
-![Products Dashboard](screenshots/products.png)
+![Products Dashboard](/Users/elsawaf/Desktop/Product.png)
 
 ### Employees & Customers
-![Employees & Customers Dashboard](screenshots/employees-customers.png)
+![Employees & Customers Dashboard](/Users/elsawaf/Desktop/Emp&Cust.png)
 
 ---
 
@@ -21,8 +21,8 @@
 
 ```
 Mid-DHub/
-├── Mid-DHub.xlsx                  # Source data (Excel)
-├── Tablue_Mid_D-Hub_.twbx         # Packaged Tableau workbook
+├── DataSets                 # Source data & cleaned one
+├── Tablue file         # Packaged Tableau workbook
 ├── screenshots/
 │   ├── sales.png
 │   ├── products.png
